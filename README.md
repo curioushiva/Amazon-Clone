@@ -7,8 +7,7 @@ Hi! If you're reading this, welcome to my project! This is a homepage of the fam
 ## Website 
 
 You can access the web clone [Curiosity - Studio ](https://mycuriosity.netlify.app/webpages/amazonclone/) from here 
-  \
-  \
+
 
 If you have any feedback or suggestions for improvement, please feel free to share them!
 
